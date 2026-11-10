@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1794318220089,
+      "tag": "0000_job_board_schema",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1794318261003,
+      "tag": "0001_seed_test_accounts_and_jobs",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1794318375952,
+      "tag": "0002_salary_period",
+      "breakpoints": true
+    }
+  ]
+}
